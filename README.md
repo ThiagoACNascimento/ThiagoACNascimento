@@ -116,9 +116,9 @@ I am open to connections and opportunities in the development field! 🚀🌎
       src="https://github-readme-stats.vercel.app/api?username=ThiagoACNascimento&show_icons=true&theme=synthwave&include_all_commits=true" 
    />
 
-   <!-- <img 
+   <img 
       alt="Top Languages"
       height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoACNascimento&theme=synthwave&layout=compact&custom_title=Technologies" 
-   /> -->
+   /> 
 </p>
