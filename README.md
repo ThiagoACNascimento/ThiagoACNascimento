@@ -36,13 +36,13 @@ I am open to connections and opportunities in the development field! 🚀🌎
          alt="git repos" title="Visit my repository" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-993399?style=for-the-badge&logoColor=white&logo=repo"
       />
    </a>
-   <a href="https://vanhack.com/T/ThiagoAntonio">
+<!--    <a href="https://vanhack.com/T/ThiagoAntonio">
       <img 
          alt="VanHack Profile" 
          title="Visit my VanHack profile" 
          src="https://custom-icon-badges.demolab.com/badge/-VanHack-blue?style=for-the-badge&logo=vanhack&logoColor=white&labelColor=0e76a8"
       />
-   </a>
+   </a> -->
  
 <!--<a href="https://github.com/ThiagoACNascimento?tab=followers">
       <img 
