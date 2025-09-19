@@ -75,11 +75,11 @@
    <img 
       alt="GitHub Stats"
       height="200"
-      src="https://github-readme-stats.vercel.app/api?username=ThiagoACNascimento&show_icons=true&theme=synthwave&include_all_commits=true" 
+      src="https://github-readme-stats.vercel.app/api?username=ThiagoACNascimento&show_icons=true&title_color=bb86fc&text_color=e0b0ff&icon_color=9d4edd&bg_color=1e1e1e" 
    />
    <img 
       alt="Top Languages"
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoACNascimento&theme=synthwave&layout=compact&custom_title=Technologies" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoACNascimento&layout=compact&custom_title=Technologies&title_color=bb86fc&text_color=e0b0ff&icon_color=9d4edd&bg_color=1e1e1e" 
    /> 
 </p>
