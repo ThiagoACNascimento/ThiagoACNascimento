@@ -37,9 +37,9 @@
 ## 🗣️ Languages & Communication  
 <p align="left">
    <img 
-      alt="Portuguese - Brazil" 
+      alt="Portuguese" 
       title="Fluent in Portuguese" 
-      src="https://custom-icon-badges.demolab.com/badge/-Portuguese-32CD32?style=for-the-badge&logo=google-translate&logoColor=FFFF00&labelColor=32CD32"
+      src="https://custom-icon-badges.demolab.com/badge/-Portuguese%20(Brazil)-32CD32?style=for-the-badge&logo=google-translate&logoColor=FFFF00&labelColor=32CD32"
    />
    <img 
       alt="English" 
