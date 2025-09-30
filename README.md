@@ -39,7 +39,7 @@
    <img 
       alt="Portuguese" 
       title="Fluent in Portuguese" 
-      src="https://custom-icon-badges.demolab.com/badge/-Portuguese%20(Brazil)-32CD32?style=for-the-badge&logo=google-translate&logoColor=FFFF00&labelColor=32CD32"
+      src="https://custom-icon-badges.demolab.com/badge/-Portuguese%20(Brazil)-009440?style=for-the-badge&logo=google-translate&logoColor=FFFF00&labelColor=009440"
    />
    <img 
       alt="English" 
