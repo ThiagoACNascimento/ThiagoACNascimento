@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Thiago Antonio  
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1600&height=90&duration=4000&lines=Hello!+I'm+Thiago!&color=9b59b6" />
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
+</p>
 
 🎓 **Computer Science student** at the Federal University of Rondônia (UNIR), originally from **Piauí, Brazil**.  
 💻 Passionate about **software development**, always seeking to improve my skills and learn new technologies.  
@@ -71,15 +77,11 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="left">
-   <img 
-      alt="GitHub Stats"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api?username=ThiagoACNascimento&show_icons=true&title_color=bb86fc&text_color=e0b0ff&icon_color=9d4edd&bg_color=1e1e1e" 
-   />
-   <img 
-      alt="Top Languages"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoACNascimento&layout=compact&custom_title=Technologies&title_color=bb86fc&text_color=e0b0ff&icon_color=9d4edd&bg_color=1e1e1e" 
-   /> 
-</p>
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoACNascimento&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThiagoACNascimento&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoACNascimento&theme=tokyonight)
+<h3 align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=9b59b6&center=true&width=446&lines=Thank+you+for+visiting!+&#128570;)](https://git.io/typing-svg)
+
+</h3>
