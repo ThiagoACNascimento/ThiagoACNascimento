@@ -72,14 +72,3 @@
       />
    </a>
 </p>  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoACNascimento&theme=tokyonight)  
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoACNascimento&theme=tokyonight)
-<h3 align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=9b59b6&center=true&width=446&lines=Thank+you+for+visiting!+&#128570;)](https://git.io/typing-svg)
-
-</h3>
