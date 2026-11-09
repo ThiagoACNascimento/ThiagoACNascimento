@@ -1,4 +1,4 @@
-# Hi, I'm Thiago
+# Hey, I'm Thiago
 
 I'm a backend developer from Brazil. I spend most of my time building APIs, designing databases and figuring out why things break when they shouldn't.
 
@@ -12,3 +12,9 @@ I care about simple code, good tests and documentation that someone will actuall
 - **Docker and GitHub Actions**, to ship it all
 
 [LinkedIn](https://www.linkedin.com/in/thiago-nascimento-916290328/) · [Email](mailto:thiagoantonio.dev@gmail.com)
+
+<br/>
+<br/>
+<br/>
+
+<img src="assets/onça-arara.png" align="right" width="200" alt="Onça-pintada e arara" />
