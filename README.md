@@ -1,4 +1,4 @@
-# Fala rapaziadinha! I'm Thiago
+# Hi, I'm Thiago
 
 I'm a backend developer from Brazil. I spend most of my time building APIs, designing databases and figuring out why things break when they shouldn't.
 
