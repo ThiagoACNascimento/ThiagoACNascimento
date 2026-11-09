@@ -6,15 +6,11 @@ I care about simple code, good tests and documentation that someone will actuall
 
 ## Stack
 
+<img src="assets/onça-arara.png" align="right" width="200" alt="Onça-pintada e arara" />
+
 - **TypeScript and Node.js**, mostly with NestJS
 - **Python**, with Django and FastAPI
 - **PostgreSQL**, for pretty much everything
 - **Docker and GitHub Actions**, to ship it all
 
 [LinkedIn](https://www.linkedin.com/in/thiago-nascimento-916290328/) · [Email](mailto:thiagoantonio.dev@gmail.com)
-
-<br/>
-<br/>
-<br/>
-
-<img src="assets/onça-arara.png" align="right" width="200" alt="Onça-pintada e arara" />
